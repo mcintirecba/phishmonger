@@ -29,3 +29,8 @@ docker attach <container ID>
 
 docker ps -a # to get <container ID>
 docker cp <container ID>:/phishmonger/output .
+  
+# Relevant Citation:
+
+Dobolyi, D. G., & Abbasi, A. (2016, September). Phishmonger: A free and open source public archive of real-world phishing websites. In Intelligence and Security Informatics (ISI), 2016 IEEE Conference on (pp. 31-36). IEEE.
+https://ieeexplore.ieee.org/document/7745439
